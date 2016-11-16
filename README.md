@@ -22,6 +22,12 @@ console.log(rupiah)
 
 ```
 
+## Tests
+
+```
+node test
+```
+
 ## License
 
 MIT
