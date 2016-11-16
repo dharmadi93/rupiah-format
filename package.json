@@ -28,5 +28,11 @@
   "homepage": "https://github.com/dharmadi93/rupiah-format#readme",
   "engines": {
     "node": ">=6.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
   }
 }
