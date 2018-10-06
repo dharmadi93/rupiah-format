@@ -2,11 +2,11 @@
 
 ## Synopsis
 
-This library will convert standart numbers format into indonesian rupiah format
+This library converts standard numbers format into Indonesian currency format (Rupiah)
 
 ## Installation
 
-npm install
+```npm install```
 
 ## Code Example
 
