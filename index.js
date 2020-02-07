@@ -9,7 +9,7 @@ module.exports = {
                 tempNum[i] = `.${tempNum[i]}`
             }
         }
-        rupiah = `Rp. ${tempNum.reverse().join("")},00`
+        rupiah = `Rp${tempNum.reverse().join("")},00`
         return rupiah
     }
 
